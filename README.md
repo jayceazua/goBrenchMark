@@ -3,7 +3,7 @@
 
 
 ## Acknowledgements
-Table Test Tutorial:
+ - Table Test Tutorial:
 https://tutorialedge.net/golang/advanced-go-testing-tutorial/
-Brenchmarking Tutorial
+ - Brenchmarking Tutorial
 https://tutorialedge.net/golang/benchmarking-your-go-programs/
